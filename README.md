@@ -1,3 +1,3 @@
-## Demo Repo
+# Demo Repo
 
 Some Description updated!
